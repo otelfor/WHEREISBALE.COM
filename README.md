@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="KEYWORDS" content="bale, realmadrid, madrid, gareth, gareth bale, football, mufc, manchester united, psg, chelsea, cfc, rm, whereisbale">
 <meta name="Where Is Bale?" content="Here is where you put a short sentence or two describing this page and it's goals">
-<title>Free template #1 provided by www.free-templates.org (replace this title with your own)</title>
+<title>"Where Is Bale</title>
 </head>
 
 <body bgcolor="#000000">
@@ -14,8 +14,8 @@
   <center>
   <table border="1" cellpadding="3" cellspacing="1" width="799" height="76">
     <tr>
-      <td width="786" valign="top" align="center" bgcolor="#70B4D3" height="66"><font size="7" face="Arial" color="#000080">Place
-        your logo and/or title here</font></td>
+      <td width="786" valign="top" align="center" bgcolor="#70B4D3" height="66"><font size="7" face="Arial" color="#000080">
+        file:///C:/Users/Oliver%20Telfor/Downloads/Real_Madrid_CF.svg.png</font></td>
     </tr>
   </table>
   </center>
