@@ -1,13 +1,10 @@
-                                                        Real Madrid
-
 <html>
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="AUTHOR" content="created by Doyle at http://free-templates.org">
 <meta name="KEYWORDS" content="bale, realmadrid, madrid, gareth, gareth bale, football, mufc, manchester united, psg, chelsea, cfc, rm, whereisbale">
-<meta name="DESCRIPTION" content="Here is where you put a short sentence or two describing this page and it's goals">
+<meta name="Where Is Bale?" content="Here is where you put a short sentence or two describing this page and it's goals">
 <title>Free template #1 provided by www.free-templates.org (replace this title with your own)</title>
 </head>
 
